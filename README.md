@@ -1,7 +1,3 @@
-# Datasets
-- 2016 US Election https://www.kaggle.com/benhamner/2016-us-election?
-
-
 # vega-datasets
 
 This data lives at https://github.com/vega/vega-datasets
